@@ -1,8 +1,11 @@
 # dependencies (bun install)
 node_modules
 
-# output
+# Forge/Foundry artifacts
 out
+cache
+
+# output
 dist
 *.tgz
 
